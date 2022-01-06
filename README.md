@@ -1,6 +1,6 @@
 # Titulo maneiro do meu READ ME
 
-Olá mundo, estou aprendend :)
+Olá mundo, estou aprendendo :)
 
 # Subtitulo
 
